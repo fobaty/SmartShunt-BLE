@@ -19,7 +19,8 @@ Initially developed for 6S Li-ion setups, it is easily configurable for 12V Lead
 * **Microcontroller:** ESP32-C6 (supports BLE 5.0 and Matter/Zigbee).
 * **Sensor:** INA226 High-Side/Low-Side Bi-Directional Current/Power Monitor.
 * **Shunt:** 300A / 75mV (Resistance: 0.00025Ω).
-* **I2C Connections (Default):** - SDA: `GPIO 20`
+* **I2C Connections (Default):**
+  - SDA: `GPIO 20`
   - SCL: `GPIO 19`
 
 ## 📊 Data Protocol (BLE)
