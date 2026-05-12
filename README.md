@@ -39,7 +39,7 @@ You can send commands via the **Configuration Characteristic** (`82250625...`):
 |:---|:---|
 | `sync:1` | Force Sync to 100% SoC |
 | `sync:0` | Force Sync to 0% (Activates Learning Mode) |
-| `cap:60.0` | Set Battery Nominal Capacity (e.g., 60Ah for Corolla) |
+| `cap:60.0` | Set Battery Nominal Capacity (e.g., 40Ah) |
 | `volt:14.2` | Set Full Charge Voltage threshold |
 
 ## 🔧 Installation
